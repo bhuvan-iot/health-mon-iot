@@ -1,8 +1,12 @@
 Commands to Install Apache Server
 -------------------------———-----
 
-sudo su (this helps to change your account form home to root)
+  sudo su 
+  
+(this helps to change your account form home to root)
 
-apt-get install apache2 (this command helps to install the Apache2 server in our environment)
+  apt-get install apache2
+  
+(this command helps to install the Apache2 server in our environment)
 
 ===============================================
