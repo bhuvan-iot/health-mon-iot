@@ -108,7 +108,7 @@ void loop()
         oled.setCursor(0,0);
         oled.println("  Health-Monitoring ");
         oled.setCursor(0,8);
-        oled.println("---------------------");
+        oled.println("--------system--------");
        
        //To print the IR values
        
